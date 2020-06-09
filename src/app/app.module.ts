@@ -11,6 +11,7 @@ import {MatButtonModule} from '@angular/material/button';
 import { ReactiveFormsModule }   from '@angular/forms';
 import { FormsModule } from '@angular/forms';
 import {MatCardModule} from '@angular/material/card';
+import { AboutComponent } from './about/about.component';
 
 
 
@@ -20,6 +21,7 @@ import {MatCardModule} from '@angular/material/card';
   declarations: [
     AppComponent,
     ContactComponent,
+    AboutComponent,
  
   ],
   imports: [
