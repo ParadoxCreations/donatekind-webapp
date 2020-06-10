@@ -5,8 +5,8 @@ import { AboutComponent } from './about/about.component';
 
 
 const routes: Routes = [
- { path : '' ,component: ContactComponent },
- // { path : '' ,component: AboutComponent },
+ //{ path : '' ,component: ContactComponent },
+  { path : '' ,component: AboutComponent },
   
  ];
 
